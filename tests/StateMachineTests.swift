@@ -1,5 +1,5 @@
 import XCTest
-@testable import StateMachine
+import StateMachine
 
 class StateMachineTests: XCTestCase {
 
